@@ -1,5 +1,7 @@
 /* 이벤트 */
 .event {
+  height: 1190px;
+  background: #f6ac1d;
 }
 @media all and (max-width: 1680px) {
 }

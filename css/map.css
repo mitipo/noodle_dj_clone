@@ -1,5 +1,7 @@
 /* 행사장 안내  */
 .map {
+  height: 1450px;
+  background: #041424;
 }
 @media all and (max-width: 1680px) {
 }

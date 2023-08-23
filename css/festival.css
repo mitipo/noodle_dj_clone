@@ -1,5 +1,7 @@
 /* 페스티벌 소개 */
 .festival {
+  height: 960px;
+  background: #f6ac1d;
 }
 @media all and (max-width: 1680px) {
 }
